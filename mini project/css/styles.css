@@ -1,0 +1,120 @@
+body{
+    font-family:Montserrat;
+}
+
+#title{
+    padding:3% 13%;
+}
+/* container-fluid */
+.container-fluid{
+    padding:0;
+}
+
+/* Navigation bar */
+.navbar{
+    padding:0 0 3rem;
+    margin:0;
+}
+.navbar-brand{
+    font-style: italic;
+    font-size:2.5rem;
+    font-weight:900;
+
+}
+.login{
+    font-weight:600;
+    margin-right:30px;
+    margin-top:24px;
+    margin-left:20px;
+    margin-bottom:12px;
+    padding:0;
+    border:none;
+    background:none;
+}
+.sign-up{
+    font-weight:600;
+    margin:18px;
+    background-color:#000000;
+    margin-left:0;
+    margin-right:0;
+    padding-left:30px;
+    padding-right:30px;
+}
+#title-im{
+    text-align:center;
+}
+.title-image{
+    height:37.5rem;
+    width:62.5rem;
+    
+}
+
+/* feature section */
+#features{
+    padding:7% 15%;
+    background-color:#362222;
+}
+.feature-box{
+    text-align:center;
+    padding:0 3% 0;
+}
+.icon{
+    padding-bottom:4%;
+    color:#FF7600;
+}
+h3{
+    font-family:Montserrat;
+    font-weight:600;
+    color:#fff;
+
+}
+.feature-para{
+    font-family:Montserrat;
+    font-weight:100;
+    color:#fff;
+}
+
+/* menu */
+#menu{
+    padding:100px;
+}
+.menu-heading{
+    text-align:center;
+    margin-bottom: 5rem;
+}
+.card{
+    border:none;
+}
+.card-img-div{
+    text-align:center;
+}
+.card-img-top{
+    height:15rem;
+    width:20rem;
+    
+}
+.food-name{
+    font-family:Montserrat;
+    font-weight:600;
+    margin-bottom:5;
+}
+.food-rating{
+    font-family:Montserrat;
+    font-weight:500;
+    margin-bottom:5;
+    color:#687980;
+}
+.star{
+    color:#FFA900;
+}
+.food-price{
+    font-family:Montserrat;
+    font-weight:500;
+    margin-bottom:5;
+    color:#687980;
+}
+
+.cart{
+    color:#81B214;
+    margin-right:5px;
+}
